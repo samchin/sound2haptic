@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPA6211A1DGN")(type "KiCad")(uri "${KIPRJMOD}/libs/TPA6211A1DGN.kicad_sym")(options "")(descr ""))
+  (lib (name "INA180A1IDBVR")(type "KiCad")(uri "${KIPRJMOD}/libs/INA180A1IDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ1-3535N")(type "KiCad")(uri "${KIPRJMOD}/libs/SJ1-3535N.kicad_sym")(options "")(descr ""))
+)

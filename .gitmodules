@@ -1,0 +1,6 @@
+[submodule "AudioBoard"]
+	path = AudioBoard
+	url = git@github.com:zmarissa125/AudioBoard.git
+[submodule "sound2hap"]
+	path = sound2hap
+	url = git@github.com:samchin/sound2hap.git
